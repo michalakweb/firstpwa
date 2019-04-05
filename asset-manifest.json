@@ -1,0 +1,14 @@
+{
+  "main.css": "/firstpwa/static/css/main.f74a07ee.chunk.css",
+  "main.js": "/firstpwa/static/js/main.3fceb3cd.chunk.js",
+  "main.js.map": "/firstpwa/static/js/main.3fceb3cd.chunk.js.map",
+  "runtime~main.js": "/firstpwa/static/js/runtime~main.b6e0e14e.js",
+  "runtime~main.js.map": "/firstpwa/static/js/runtime~main.b6e0e14e.js.map",
+  "static/js/2.4b44abd2.chunk.js": "/firstpwa/static/js/2.4b44abd2.chunk.js",
+  "static/js/2.4b44abd2.chunk.js.map": "/firstpwa/static/js/2.4b44abd2.chunk.js.map",
+  "index.html": "/firstpwa/index.html",
+  "precache-manifest.27d0d5589f68561ad03c1fc2854b5bf1.js": "/firstpwa/precache-manifest.27d0d5589f68561ad03c1fc2854b5bf1.js",
+  "service-worker.js": "/firstpwa/service-worker.js",
+  "static/css/main.f74a07ee.chunk.css.map": "/firstpwa/static/css/main.f74a07ee.chunk.css.map",
+  "static/media/logo.svg": "/firstpwa/static/media/logo.5d5d9eef.svg"
+}
